@@ -1,0 +1,27 @@
+{
+	"transaction": {
+		"externalId": "0b4df2f43d694d98a816b16298ee9174",
+		"tags": ["fornecedores", "war", "lannister", "1/2"],
+		"description": "A lannister always pays his debts. Wall War 1/2"
+	},
+	"transfers": [
+		{
+			"amount": 100000000,
+			"taxId": "594.739.480-42",
+			"name": "Daenerys Targaryen Stormborn",
+			"bankCode": "341",
+			"branchCode": "2201",
+			"accountNumber": "76543-8",
+			"tags": ["daenerys", "targaryen", "transfer-1-external-id"]
+		},
+		{
+			"amount": 500000000,
+			"taxId": "10.032.845/0001-12",
+			"name": "Iron Bank of Braavos",
+			"bankCode": "033",
+			"branchCode": "1230-5",
+			"accountNumber": "123456-8",
+			"tags": ["iron", "bank", "transfer-2-external-id"]
+		}
+	]
+}
